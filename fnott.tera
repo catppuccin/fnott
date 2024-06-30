@@ -3,15 +3,15 @@ whiskers:
   version: "2.4.0"
   matrix:
     - flavor
-  filename: "themes/catppuccin-{{flavor.identifier}}.ini"
+  filename: "themes/catppuccin-{{ flavor.identifier }}.ini"
   hex_format: "{{r}}{{g}}{{b}}{{a}}"
 ---
-title-color={{flavor.colors.subtext0.hex}}
-summary-color={{flavor.colors.text.hex}}
-body-color={{flavor.colors.text.hex}}
-background={{flavor.colors.base.hex}}
-border-color={{flavor.colors.blue.hex}}
-progress-bar-color={{flavor.colors.overlay0.hex}}
+title-color={{ subtext0.hex }}
+summary-color={{ text.hex }}
+body-color={{ text.hex }}
+background={{ base.hex }}
+border-color={{ blue.hex }}
+progress-bar-color={{ overlay0.hex }}
 
 [critical]
-border-color={{flavor.colors.peach.hex}}
+border-color={{ peach.hex }}
