@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/tranzystorekk/catppuccin-fnott/stargazers"><img src="https://img.shields.io/github/stars/tranzystorekk/catppuccin-fnott?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/tranzystorekk/catppuccin-fnott/issues"><img src="https://img.shields.io/github/issues/tranzystorekk/catppuccin-fnott?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/tranzystorekk/catppuccin-fnott/contributors"><img src="https://img.shields.io/github/contributors/tranzystorekk/catppuccin-fnott?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/fnott/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/fnott?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/fnott/issues"><img src="https://img.shields.io/github/issues/catppuccin/fnott?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/fnott/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/fnott?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
