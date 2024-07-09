@@ -38,7 +38,10 @@
 
 1. Pick the flavor of your choice from the [`themes/`](./themes/) directory.
 2. Copy the contents into your `fnott.ini` config file.
-  - Note that the upper part of the file should be placed above any other section.
+
+> [!NOTE]
+> The upper part of the file should be placed above any other section.
+
 3. Reload the fnott daemon.
 
 ## 💝 Thanks to
